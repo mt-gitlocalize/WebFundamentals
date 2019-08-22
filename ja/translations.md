@@ -8,6 +8,8 @@ description: Web Fundamentalsを他の言語に翻訳したい場合は、誰で
 
 警告：GitLocalizeは現在使用していません。これらの手順は古く、まもなく更新されます。
 
+テスト用の新しい段落。
+
 [GitLocalize](https://gitlocalize.com/)と呼ばれる翻訳ツールを[試してい](https://gitlocalize.com/)ます。次の手順に従って、貢献を開始してください。
 
 1. [GitLocalizeのWeb Fundamentalsリポジトリに](https://gitlocalize.com/repo/107)移動し[ます](https://gitlocalize.com/repo/107) 。
