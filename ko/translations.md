@@ -8,6 +8,8 @@ description: 웹 기초를 다른 언어로 번역하려는 경우 누구나 기
 
 경고 : 더 이상 GitLocalize를 사용하지 않습니다.이 지침은 오래되었으며 곧 업데이트 될 예정입니다.
 
+테스트를위한 새로운 단락.
+
 우리는 [GitLocalize](https://gitlocalize.com/) 라는 번역 도구를 실험하고 있습니다. 기여를 시작하려면 다음 단계를 따르십시오.
 
 1. [GitLocalize의 Web Fundamentals 저장소로 이동하십시오](https://gitlocalize.com/repo/107) .
