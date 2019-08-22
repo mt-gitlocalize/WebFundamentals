@@ -11,6 +11,8 @@ description: "If you want to translate Web Fundamentals to other languages, anyo
 Warning: We are no longer using GitLocalize, these instructions are out of date
 and will be updated shortly.
 
+New paragraph for testing.
+
 We are experimenting with a translation tool called
 [GitLocalize](https://gitlocalize.com/). Follow the steps to get started with
 your contribution:
